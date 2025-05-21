@@ -4,7 +4,7 @@ An automated WiFi Access Point setup script for Raspberry Pis. Turns your Pi int
 
 ## Instructions
 1. Clone the repository using git<br>
-    `git clone https://github.com/arm358/Raspberry-Pi-Automated-WiFi-Access-Point`
+    `git clone https://github.com/tazomatalax/Raspberry-Pi-Automated-WiFi-Access-Point`
 2. Change directory into the repository<br>
     `cd Raspberry-Pi-Automated-WiFi-Access-Point`
 3. Make the script executable<br>
@@ -16,5 +16,5 @@ An automated WiFi Access Point setup script for Raspberry Pis. Turns your Pi int
 
 ## Notes
 1. This will create a 2.4ghz WiFi network on channel 2
-2. Country code is set to United States
+2. Country code is set to New Zealand
 4. To change these settings, edit the `/etc/hostapd/hostapd.conf` file
